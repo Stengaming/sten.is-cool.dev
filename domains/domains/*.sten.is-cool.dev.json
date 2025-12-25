@@ -1,0 +1,14 @@
+{
+    "description": "My own Portofolio from Home",
+
+    "domain": "is-cool.dev",
+    "subdomain": "*.sten",
+    "owner": {
+        "repo": "https://github.com/stengaming/sten.is-cool.dev",
+        "email": "thedevelopersten@gmail.com"
+    },
+    "record": {
+        "A": ["216.198.79.1"]
+    },
+    "proxied": false
+}
